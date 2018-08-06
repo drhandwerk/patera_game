@@ -1,5 +1,5 @@
 ## Patera
-Just type `python patera_game` to play!
+Just type `python patera_game.py` to play!
 
 ## DEPENDENCIES
 Python 3
@@ -11,3 +11,4 @@ Running `pip install cocos2d` should install all the required dependencies.
 ## CONTROLS
 Player 1: Arrow Keys and Space
 Player 2: WASD and LShift
+T: Add Player 2
